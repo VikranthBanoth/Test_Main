@@ -1,9 +1,0 @@
-{
-	"name": "pocadfptg",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "f0e174f0-d99a-4b7b-be2d-61e0dfeafef7",
-		"tenantId": "31386ae4-e5c5-4956-80b9-3868597721b3"
-	}
-}
